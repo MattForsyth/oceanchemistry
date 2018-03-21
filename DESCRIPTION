@@ -1,0 +1,13 @@
+Package: oceanchemistry
+Title: Ocean Chemistry Analysis
+Version: 0.0.0.9000
+Authors@R: person("Matthew", "Auvinen", email = "matthewauvinen@gmail.com", role = c("aut", "cre"))
+Description: Use this to analyze the Redfish data or any other datasets that can be fit into the functionality of this package.
+Depends: R (>= 3.2.2)
+License: N/A
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
